@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## My name is CHRINOVIC MM, I'm passionate about web developpement
+
 <!--
 **CHRINOVIC-MM/CHRINOVIC-MM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
