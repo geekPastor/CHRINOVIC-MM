@@ -4,6 +4,27 @@
 
 ## My name is CHRINOVIC MM, I'm passionate about web developpement
 
+
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/chrinovic-mukeba-5aa765230/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+<!--  telegram badge  -->
+  <a href="https://t.me/ChrinovicMM">
+    <img src="https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  
+<!--  twiter badge  -->
+  <a href="https://twitter.com/ChrinovicMukeba">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <br>
+<!--  view number  -->
+  <img src="https://komarev.com/ghpvc/?username=CHRINOVIC-MM&style=flat-square&color=blue" alt=""/>
+</div>
+
+
 <!--
 **CHRINOVIC-MM/CHRINOVIC-MM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
