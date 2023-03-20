@@ -45,11 +45,11 @@
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt+"Python" height="40", width="40"/>
-  <img src="[https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)" alt+"Javascript" height="40", width="40"/>
-  <img src="[https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg)" alt+"html5" height="40", width="40"/>
-  <img src="[[https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg)](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg)" alt+"html5" height="40", width="40"/>
-    <img src="[[[https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg)](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg)](https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg)" alt+"html5" height="40", width="40"/>
-  <img src="[[[[https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg)](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg)](https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg)](https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg)" alt+"html5" height="40", width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt+"Javascript" height="40", width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt+"html5" height="40", width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt+"html5" height="40", width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt+"html5" height="40", width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt+"html5" height="40", width="40"/>
 </div>
 <!--
 **CHRINOVIC-MM/CHRINOVIC-MM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
