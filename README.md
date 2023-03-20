@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif">
-</div>👋
+</div>
 
 ## My name is CHRINOVIC MM, I'm passionate about web developpement
 
@@ -24,6 +24,11 @@
   <img src="https://komarev.com/ghpvc/?username=CHRINOVIC-MM&style=flat-square&color=blue" alt=""/>
 </div>
 
+
+<h1 align="center">
+  hey there
+  <img src="https://media.giphy.com/media/K7StRcr7hagJpXROmb/giphy.gif" width="30px"/>
+</h1>
 
 <!--
 **CHRINOVIC-MM/CHRINOVIC-MM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
