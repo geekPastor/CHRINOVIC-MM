@@ -34,16 +34,23 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="350"/>
 </div>
-
+---
 
 ### :man_technologist: About Me : 
-  - Currently I'm student
-  - I like good things.
-- :telescope: I’m learning PHP language.
+  - Currently I'm student at esisalama
+- :telescope: I’m learning Javascript.
 - :seedling: Exploring Technical Content Writing.
-- :zap: In my free time, I read tech books and tech articles.
 - :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-ail-blue?style=flat&logo=Gmail&logoColor=white)](chrinovicmukeba123@gmail.com).
+---
 
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt+"Python" height="40", width="40"/>
+  <img src="[https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)" alt+"Javascript" height="40", width="40"/>
+  <img src="[https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg)" alt+"html5" height="40", width="40"/>
+  <img src="[[https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg)](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg)" alt+"html5" height="40", width="40"/>
+    <img src="[[[https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg)](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg)](https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg)" alt+"html5" height="40", width="40"/>
+  <img src="[[[[https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg)](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg)](https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg)](https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg)" alt+"html5" height="40", width="40"/>
+</div>
 <!--
 **CHRINOVIC-MM/CHRINOVIC-MM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
