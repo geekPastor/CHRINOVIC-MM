@@ -30,6 +30,20 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="350"/>
+</div>
+
+
+### :man_technologist: About Me : 
+  - Currently I'm student
+  - I like good things.
+- :telescope: I’m learning PHP language.
+- :seedling: Exploring Technical Content Writing.
+- :zap: In my free time, I read tech books and tech articles.
+- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-ail-blue?style=flat&logo=Gmail&logoColor=white)](chrinovicmukeba123@gmail.com).
+
 <!--
 **CHRINOVIC-MM/CHRINOVIC-MM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
