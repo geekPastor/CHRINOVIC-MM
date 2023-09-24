@@ -1,10 +1,18 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif">
-</div>
+### Hi ! 👋 I'm Chrinovic MM <img align="center" alt="Android" width="55" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" />
 
-## My name is CHRINOVIC MM, I'm passionate about web developpement
+I'm Android Development Learner also Google Developer Student Clubs 2023-24 and ESPACESIS Community Lead ,I love Learning, descovering and sharing about technologies
 
 
+I am a strong believer in continuous learning, and I am always looking for ways to improve my skills and knowledge. I am a regular contributor to the community though content creation,public speaking,open source, and I am always happy to help others learn about Technologies.
+
+
+<h3> 👨🏾‍💻 Recents activities </h3>
+
+
+
+**<h3> 📙 Blogposts </h3>**
+
+<h3>🎤 My Presentations & Speeches</h3>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/chrinovic-mukeba-5aa765230/">
@@ -25,16 +33,6 @@
 </div>
 
 
-<h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="350"/>
-</div>
----
 
 ### :man_technologist: About Me : 
   - Currently I'm student at esisalama
@@ -44,24 +42,13 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt+"Python" height="40", width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt+"Javascript" height="40", width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt+"html5" height="40", width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt+"html5" height="40", width="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt+"html5" height="40", width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt+"html5" height="40", width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt+"html5" height="40", width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt+"html5" height="40", width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt+"html5" height="40", width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt+"html5" height="40", width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" alt+"html5" height="40", width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt+"html5" height="40", width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt+"html5" height="40", width="40"/>
 </div>
 <!--
 **CHRINOVIC-MM/CHRINOVIC-MM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
